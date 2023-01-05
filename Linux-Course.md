@@ -10,5 +10,5 @@
 + mkdir : Creates directories
 + rmdir : Deletes directories (only works if directorties is empty)
 + Cat : View txt files
-+ 
++ grep : Searches for texts {text} {file}
 
